@@ -17,4 +17,4 @@
 
 ## TensorFlow
 
-- see [tensorflow introduction](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/tensorflow_introduction_seminar_2017.10.26.pptx)
+- see [tensorflow introduction](tensorflow_introduction_seminar_2017.10.26.pptx)
