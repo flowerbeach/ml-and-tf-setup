@@ -4,12 +4,12 @@
 
 - Choose a distribution
     - Anaconda
-        - see [install anaconda](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/install-anaconda.md)
+        - see [install anaconda](install-anaconda.md)
 - Setup environment
     - conda + jupyter
-        - see [setup data science environment in python](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/setup-data-science-environment-in-python.md)
+        - see [setup data science environment in python](setup-data-science-environment-in-python.md)
     - create a socks proxy tunnel with ssh
-        - see [create a socks proxy tunnel with ssh](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/create-a-socks-proxy-tunnel-with-ssh.md)
+        - see [create a socks proxy tunnel with ssh](create-a-socks-proxy-tunnel-with-ssh.md)
 
 ## Machine Learning & Deep Learning
 
