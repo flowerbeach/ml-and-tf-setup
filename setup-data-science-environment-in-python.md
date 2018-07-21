@@ -73,24 +73,3 @@ c.NotebookApp.open_browser = False
 mkdir ~/.jupyter
 jupyter notebook password
 ```
-
-## 安装 JupyterLab
-
-使用 conda：
-
-```
-conda install -c conda-forge jupyterlab
-```
-
-使用 pip：
-
-```
-pip install jupyterlab
-jupyter serverextension enable --py jupyterlab --sys-prefix
-```
-
-运行 JupyterLab：
-
-```
-jupyter lab --no-browser
-```
