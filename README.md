@@ -4,10 +4,12 @@
 
 - Choose a distribution
     - Anaconda
-        - see [install-anaconda.md](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/install-anaconda.md)
+        - see [install anaconda](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/install-anaconda.md)
 - Setup environment
     - conda + jupyter
-        - see [setup-data-science-environment-in-python.md](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/setup-data-science-environment-in-python.md)
+        - see [setup data science environment in python](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/setup-data-science-environment-in-python.md)
+    - create a socks proxy tunnel with ssh
+        - see [create a socks proxy tunnel with ssh](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/create-a-socks-proxy-tunnel-with-ssh.md)
 
 ## Machine Learning & Deep Learning
 
@@ -15,4 +17,4 @@
 
 ## TensorFlow
 
-- see [tensorflow_introduction_seminar_2017.10.26.pptx](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/tensorflow_introduction_seminar_2017.10.26.pptx)
+- see [tensorflow introduction](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/tensorflow_introduction_seminar_2017.10.26.pptx)
