@@ -4,7 +4,7 @@
 
 - Choose a distribution
     - Anaconda
-        - see [install-anaconda](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/install-anaconda.md)
+        - see [install-anaconda.md](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/install-anaconda.md)
 - Setup environment
     - conda + jupyter
         - see [setup-data-science-environment-in-python.md](https://github.com/uchuhimo/ml-and-tf-setup/blob/master/setup-data-science-environment-in-python.md)
