@@ -67,6 +67,13 @@ jupyter notebook --generate-config
 c.NotebookApp.open_browser = False
 ```
 
+## 配置 Jupyter 允许从其他设备连入
+
+```
+[edit ~/.jupyter/jupyter_notebook_config.py]
+c.NotebookApp.ip = '*'
+```
+
 ## 配置 Jupyter 使用密码登录
 
 ```
