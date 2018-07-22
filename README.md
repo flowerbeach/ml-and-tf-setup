@@ -13,7 +13,9 @@
 
 ## Machine Learning & Deep Learning
 
-- see [神经网络和深度学习](https://mooc.study.163.com/course/2001281002?tid=2001392029#/info)
+- see [deeplearning.ai](https://www.deeplearning.ai/) (From China, please access course [here](https://163.lu/nPtn42))
+    - Exercises: https://zhuanlan.zhihu.com/p/33635233
+    - Exercises with answers: https://github.com/marsggbo/deeplearning.ai_JupyterNotebooks
 
 ## TensorFlow
 
