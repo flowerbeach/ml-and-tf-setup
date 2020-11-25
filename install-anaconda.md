@@ -16,6 +16,10 @@ export PATH=$HOME/usr/miniconda/bin:$PATH
 
 ```bash
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge 
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+ 
 conda config --set show_channel_urls yes
 ```
 
@@ -87,13 +91,6 @@ conda env create -f environment.yml
 
 ```bash
 conda install python=3.6
-```
-
-## 安装 Numpy + OpenCV
-
-```bash
-conda install numpy
-conda install -c https://conda.binstar.org/menpo opencv
 ```
 
 ## 参考链接
